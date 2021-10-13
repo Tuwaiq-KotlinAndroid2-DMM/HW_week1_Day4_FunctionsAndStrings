@@ -17,7 +17,7 @@ Output:
 ```
 The middle character in the string: 5
 ```
-### b. Write a function to count all vowels in a string.
+#### b. Write a function to count all vowels in a string.
 ```sh
 fun main() {
    println(vowCount("supermarket"))
