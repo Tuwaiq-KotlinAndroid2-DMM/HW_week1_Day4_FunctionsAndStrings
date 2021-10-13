@@ -57,7 +57,7 @@ JohnDoe
 
 #### e. Write a function returns a new string with first and last character removed
 
-## Part III - Challenges (Optional).
+## Part II - Challenges (Optional).
 ---
 #### a. Write a method that takes as input a string and returns true if the string is a palindrome;
 ```sh
