@@ -15,7 +15,7 @@ fun main() {
 ```
 Output: 
 ```
-The middle character in the string: 5
+The middle character in the string: l
 ```
 #### b. Write a function to count all vowels in a string.
 ```sh
